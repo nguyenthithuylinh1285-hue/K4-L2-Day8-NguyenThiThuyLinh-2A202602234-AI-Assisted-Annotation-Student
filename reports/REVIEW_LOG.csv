@@ -1,0 +1,6 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0326.jpg,vat den pha roi mat duong goc trai duoi,deleted,AI ve nham box len vet sang mat duong khong phai xe; theo GUIDELINE_LABEL.md chi gan nhan xe 4 banh tro len
+1,frame_0326.jpg,xe tai bi che khuat mot nua boi xe phia truoc,added,AI bo sot; thay ro dau xe va den phia truoc; phan than xe > 50 phan tram dien tich du dieu kien gan nhan
+1,frame_0369.jpg,xe con o lan doi dien goc xa phai,added,AI bo sot xe o cu ly xa chi thay 2 cham den; theo guideline van ve box bao quanh vung anh sang
+1,frame_0099.jpg,xe may tai nho goc trai anh bi cat mep,deleted,Chi thay < 30 phan tram than xe; theo GUIDELINE_LABEL.md bo qua neu khong nhan ro loai xe >= 4 banh
+1,frame_0187.jpg,xe o to con lane giua box hoi lech sang phai,edited,Box AI chua om sat than xe; keo chinh ranh gioi trai va phai de sat guong chieu hau theo GUIDELINE_LABEL.md

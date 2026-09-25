@@ -9,3 +9,5 @@ day8_data.zip
 day8_round*_out.zip
 to_label/
 .agent/
+cvat_images/
+test1/
